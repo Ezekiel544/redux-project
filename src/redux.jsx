@@ -16,7 +16,6 @@ import Plustwo from './assets/plustwo.png'
 import Plusthree from './assets/plusthree.png'
 import Rhemaux from './assets/rhemaux.png'
 import Communityimg from './assets/communityimg.png'
-import Calendar from './assets/calendar.png'
 function Redux () {
   const [successCount, setSuccessCount] = useState(0);
   const [failureCount, setFailureCount] = useState(0);
