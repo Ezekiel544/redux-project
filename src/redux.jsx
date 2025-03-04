@@ -15,6 +15,7 @@ import Plusimg from './assets/plusimg.png'
 import Plustwo from './assets/plustwo.png'
 import Plusthree from './assets/plusthree.png'
 import Rhemaux from './assets/rhemaux.png'
+import Messageicon from './assets/messageicon.png'
 import Communityimg from './assets/communityimg.png'
 function Redux () {
   const [successCount, setSuccessCount] = useState(0);
