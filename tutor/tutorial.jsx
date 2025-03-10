@@ -2,6 +2,7 @@ import React from 'react'
 import { Fragment } from 'react'
 import {createRoot} from 'react-dom/client'
 import Headerwork from './headertutorial'
+import Contactfile from './contactfile.jsx'
 
 const root = createRoot(document.getElementById('root'))
 root.render(
@@ -13,7 +14,9 @@ function Firstwork (){
         <Fragment>
             <Headerwork/>
                  <Myul/>
+                 <Contactfile/>
                 </Fragment>
+                
     )
 }
 

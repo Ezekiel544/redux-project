@@ -1,14 +1,15 @@
-// import Firstwork from "./firstwork";
-// import ChallengeOne from "./challengeOne";
+
 import React from 'react';
-import Redux from "./redux"
+// import Redux from "./redux"
+// import Signup from './signup'
+import Appfolio from './porfolio/appforlio'
+
 
 function App() {
   return (
-    // <Firstwork/>
-  //  < ChallengeOne/>
-  <Redux/>
-
-  )
+    // <Signup/>
+    <Appfolio />
+  );
 }
-export default App
+
+export default App;

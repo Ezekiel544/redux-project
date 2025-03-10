@@ -17,6 +17,7 @@ import Plusthree from './assets/plusthree.png'
 import Rhemaux from './assets/rhemaux.png'
 import Messageicon from './assets/messageicon.png'
 import Communityimg from './assets/communityimg.png'
+// import { Link } from "react-router-dom";
 function Redux () {
   const [successCount, setSuccessCount] = useState(0);
   const [failureCount, setFailureCount] = useState(0);
